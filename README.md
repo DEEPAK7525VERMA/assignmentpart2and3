@@ -3,7 +3,7 @@
 This repository contains the algorithmic solutions and practical coding snippets for **Part 2** and **Part 3** of the Flutter Developer assignment. 
 
 To maintain a clean separation of concerns and a professional project structure, the main Flutter application (Part 1) is hosted in a separate repository. 
-👉 **[Insert Link to your Main Flutter Repository Here]**
+
 
 ## 📂 Repository Structure
 
